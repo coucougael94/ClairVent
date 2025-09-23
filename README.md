@@ -1,2 +1,2 @@
 # ClairVent
-épidémiologie urbaine
+Épidémiologie urbaine
