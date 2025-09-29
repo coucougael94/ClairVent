@@ -1,7 +1,7 @@
 # ClairVent
 Épidémiologie urbaine
 
-## Outils (incomplet)
+## Outils
 
 https://github.com/coucougael94/MinageINSEE
 https://github.com/coucougael94/WeatherRetriever
