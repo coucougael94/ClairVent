@@ -32,3 +32,11 @@ Modèle erronné sur 15% de la plage pour l'instant.
  - + altitude
  - + multi-emissaire (Outlier.s, rouge) 
 
+
+
+
+
+## Crédits :
+Merci à Open Meteo x Observatoire CAMS, UMAP x OSM, Python x Qt, XGBoost x Eigen etc.
+
+XGBoost c'est génial !
