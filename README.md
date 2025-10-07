@@ -249,7 +249,7 @@ double PowerCV::computeGlobalInfluenceCoefficient(
 
 
 
-### Prochains sujet d'article :
+### Prochain sujet d'article :
 Les emulsifiants (via INSERM).
 
 ### A venir :
